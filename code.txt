@@ -1,0 +1,13 @@
+dec x = 5
+dec y = some_string
+dec z = 3.14
+log x = # x
+log y = # y
+log z = # z
+x = x + z
+log x + z = # x
+x = x / z
+log x / z = # x
+if ( x > 3 ) {
+log hello
+}
